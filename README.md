@@ -69,4 +69,3 @@ Estou sempre aberto a novos desafios e oportunidades de aprendizado.
 <i>"Aprendizado contínuo. Desenvolvimento na prática."</i>
 
 </div>
-```Se quiser, posso adicionar uma seção de **Projetos em Destaque** logo abaixo das ferramentas, destacando o `ZAX-Marketplace`, os jogos da cobrinha e o `Candy-Math` com badges clicáveis. Fica ótimo para recrutadores verem seu trabalho sem precisar rolar a página.
